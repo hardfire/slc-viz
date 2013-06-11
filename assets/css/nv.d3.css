@@ -1,3 +1,9 @@
+#chart svg {
+  height: 400px;
+}
+
+
+/* nvd3 css */
 
 /********************
  * HTML CSS
@@ -700,3 +706,4 @@ svg .title {
 .nvd3 .axis text {
   text-shadow: 0 1px 0 #fff;
 }
+
